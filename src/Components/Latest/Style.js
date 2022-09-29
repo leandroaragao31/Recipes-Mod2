@@ -14,7 +14,7 @@ export const MomContainer = styled.div`
     @media screen and (max-width:768px){
         justify-content: start;
         align-items: center;
-        height: 167vh;
+        height: 175vh;
     }
     @media screen and (max-width: 375px){
         height: 130vh;

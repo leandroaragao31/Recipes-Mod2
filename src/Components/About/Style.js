@@ -9,6 +9,9 @@ export const AboutContainer = styled.div`
 
 export const SpoonFig = styled.figure`
     width:50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     @media screen and (max-width: 768px){
         width: 100vw;
         display: flex;
